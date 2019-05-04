@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-jianshu/static/css/main.2ad814a5.chunk.css",
+    "main.js": "/react-jianshu/static/js/main.dec4e651.chunk.js",
+    "main.js.map": "/react-jianshu/static/js/main.dec4e651.chunk.js.map",
+    "runtime~main.js": "/react-jianshu/static/js/runtime~main.56e6f5ee.js",
+    "runtime~main.js.map": "/react-jianshu/static/js/runtime~main.56e6f5ee.js.map",
+    "static/js/2.2ce2009f.chunk.js": "/react-jianshu/static/js/2.2ce2009f.chunk.js",
+    "static/js/2.2ce2009f.chunk.js.map": "/react-jianshu/static/js/2.2ce2009f.chunk.js.map",
+    "static/js/3.5f62e7ff.chunk.js": "/react-jianshu/static/js/3.5f62e7ff.chunk.js",
+    "static/js/3.5f62e7ff.chunk.js.map": "/react-jianshu/static/js/3.5f62e7ff.chunk.js.map",
+    "index.html": "/react-jianshu/index.html",
+    "precache-manifest.9955a8640530083b8bc0070a8ef714d7.js": "/react-jianshu/precache-manifest.9955a8640530083b8bc0070a8ef714d7.js",
+    "service-worker.js": "/react-jianshu/service-worker.js",
+    "static/css/main.2ad814a5.chunk.css.map": "/react-jianshu/static/css/main.2ad814a5.chunk.css.map",
+    "static/media/iconfont.css": "/react-jianshu/static/media/iconfont.fddec608.ttf"
+  }
+}
